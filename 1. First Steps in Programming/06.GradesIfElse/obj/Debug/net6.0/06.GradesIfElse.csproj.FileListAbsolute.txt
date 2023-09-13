@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\bin\Debug\net6.0\06.GradesIfElse.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\bin\Debug\net6.0\06.GradesIfElse.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\bin\Debug\net6.0\06.GradesIfElse.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\bin\Debug\net6.0\06.GradesIfElse.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\bin\Debug\net6.0\06.GradesIfElse.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\refint\06.GradesIfElse.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\06.GradesIfElse.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\06.GradesIfElse\obj\Debug\net6.0\ref\06.GradesIfElse.dll

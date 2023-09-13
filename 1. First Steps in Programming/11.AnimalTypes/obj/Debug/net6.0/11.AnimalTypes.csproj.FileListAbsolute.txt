@@ -1,0 +1,5 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\11.AnimalTypes\obj\Debug\net6.0\11.AnimalTypes.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\11.AnimalTypes\obj\Debug\net6.0\11.AnimalTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\11.AnimalTypes\obj\Debug\net6.0\11.AnimalTypes.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\11.AnimalTypes\obj\Debug\net6.0\11.AnimalTypes.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\11.AnimalTypes\obj\Debug\net6.0\11.AnimalTypes.csproj.CoreCompileInputs.cache

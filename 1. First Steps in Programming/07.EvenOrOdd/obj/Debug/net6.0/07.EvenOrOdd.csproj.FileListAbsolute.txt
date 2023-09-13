@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\bin\Debug\net6.0\07.EvenOrOdd.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\bin\Debug\net6.0\07.EvenOrOdd.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\bin\Debug\net6.0\07.EvenOrOdd.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\bin\Debug\net6.0\07.EvenOrOdd.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\bin\Debug\net6.0\07.EvenOrOdd.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\refint\07.EvenOrOdd.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\07.EvenOrOdd.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\07.EvenOrOdd\obj\Debug\net6.0\ref\07.EvenOrOdd.dll

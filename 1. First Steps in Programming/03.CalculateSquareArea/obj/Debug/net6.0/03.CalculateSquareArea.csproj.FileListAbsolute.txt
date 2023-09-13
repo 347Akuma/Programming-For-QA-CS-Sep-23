@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\bin\Debug\net6.0\03.CalculateSquareArea.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\bin\Debug\net6.0\03.CalculateSquareArea.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\bin\Debug\net6.0\03.CalculateSquareArea.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\bin\Debug\net6.0\03.CalculateSquareArea.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\bin\Debug\net6.0\03.CalculateSquareArea.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\refint\03.CalculateSquareArea.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\03.CalculateSquareArea.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\03.CalculateSquareArea\obj\Debug\net6.0\ref\03.CalculateSquareArea.dll

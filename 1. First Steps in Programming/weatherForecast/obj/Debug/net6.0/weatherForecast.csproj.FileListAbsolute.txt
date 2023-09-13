@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\bin\Debug\net6.0\weatherForecast.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\bin\Debug\net6.0\weatherForecast.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\bin\Debug\net6.0\weatherForecast.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\bin\Debug\net6.0\weatherForecast.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\bin\Debug\net6.0\weatherForecast.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\refint\weatherForecast.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\weatherForecast.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\weatherForecast\obj\Debug\net6.0\ref\weatherForecast.dll

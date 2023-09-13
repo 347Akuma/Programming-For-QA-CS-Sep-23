@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\bin\Debug\net6.0\05. TeachingMaterials.exe
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\bin\Debug\net6.0\05. TeachingMaterials.deps.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\bin\Debug\net6.0\05. TeachingMaterials.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\bin\Debug\net6.0\05. TeachingMaterials.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\bin\Debug\net6.0\05. TeachingMaterials.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\refint\05. TeachingMaterials.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\05. TeachingMaterials.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\05. TeachingMaterials\obj\Debug\net6.0\ref\05. TeachingMaterials.dll

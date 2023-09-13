@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\bin\Debug\net6.0\3. DepositCalculator.exe
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\bin\Debug\net6.0\3. DepositCalculator.deps.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\bin\Debug\net6.0\3. DepositCalculator.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\bin\Debug\net6.0\3. DepositCalculator.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\bin\Debug\net6.0\3. DepositCalculator.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\refint\3. DepositCalculator.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\3. DepositCalculator.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\3. DepositCalculator\obj\Debug\net6.0\ref\3. DepositCalculator.dll

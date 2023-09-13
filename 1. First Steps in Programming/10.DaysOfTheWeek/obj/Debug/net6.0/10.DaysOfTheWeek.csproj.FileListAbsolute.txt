@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\bin\Debug\net6.0\10.DaysOfTheWeek.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\bin\Debug\net6.0\10.DaysOfTheWeek.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\bin\Debug\net6.0\10.DaysOfTheWeek.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\bin\Debug\net6.0\10.DaysOfTheWeek.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\bin\Debug\net6.0\10.DaysOfTheWeek.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\refint\10.DaysOfTheWeek.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\10.DaysOfTheWeek.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\10.DaysOfTheWeek\obj\Debug\net6.0\ref\10.DaysOfTheWeek.dll

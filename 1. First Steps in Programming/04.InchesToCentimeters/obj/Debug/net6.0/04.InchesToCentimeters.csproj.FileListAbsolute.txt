@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\bin\Debug\net6.0\04.InchesToCentimeters.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\bin\Debug\net6.0\04.InchesToCentimeters.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\bin\Debug\net6.0\04.InchesToCentimeters.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\bin\Debug\net6.0\04.InchesToCentimeters.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\bin\Debug\net6.0\04.InchesToCentimeters.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\refint\04.InchesToCentimeters.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\04.InchesToCentimeters.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\04.InchesToCentimeters\obj\Debug\net6.0\ref\04.InchesToCentimeters.dll

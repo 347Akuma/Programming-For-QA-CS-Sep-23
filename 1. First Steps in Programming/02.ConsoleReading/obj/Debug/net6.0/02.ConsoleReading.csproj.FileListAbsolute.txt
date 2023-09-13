@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\bin\Debug\net6.0\02.ConsoleReading.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\bin\Debug\net6.0\02.ConsoleReading.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\bin\Debug\net6.0\02.ConsoleReading.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\bin\Debug\net6.0\02.ConsoleReading.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\bin\Debug\net6.0\02.ConsoleReading.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\refint\02.ConsoleReading.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\02.ConsoleReading.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\02.ConsoleReading\obj\Debug\net6.0\ref\02.ConsoleReading.dll

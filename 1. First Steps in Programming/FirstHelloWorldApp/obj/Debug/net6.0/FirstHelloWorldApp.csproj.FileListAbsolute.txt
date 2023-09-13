@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\refint\FirstHelloWorldApp.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\FirstHelloWorldApp\obj\Debug\net6.0\ref\FirstHelloWorldApp.dll

@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.exe
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.deps.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\refint\09.NumbersNames.dll
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.pdb
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# Basics\1\09.NumbersNames\obj\Debug\net6.0\ref\09.NumbersNames.dll

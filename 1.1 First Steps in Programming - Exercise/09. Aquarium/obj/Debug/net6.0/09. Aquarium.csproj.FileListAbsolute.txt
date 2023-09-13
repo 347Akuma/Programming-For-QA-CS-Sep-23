@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.exe
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.deps.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\refint\09. Aquarium.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\09. Aquarium\obj\Debug\net6.0\ref\09. Aquarium.dll

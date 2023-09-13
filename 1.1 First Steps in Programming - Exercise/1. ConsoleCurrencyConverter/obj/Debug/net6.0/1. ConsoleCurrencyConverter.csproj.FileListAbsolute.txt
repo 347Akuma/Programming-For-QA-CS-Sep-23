@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\bin\Debug\net6.0\1. ConsoleCurrencyConverter.exe
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\bin\Debug\net6.0\1. ConsoleCurrencyConverter.deps.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\bin\Debug\net6.0\1. ConsoleCurrencyConverter.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\bin\Debug\net6.0\1. ConsoleCurrencyConverter.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\bin\Debug\net6.0\1. ConsoleCurrencyConverter.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\refint\1. ConsoleCurrencyConverter.dll
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.pdb
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\1. ConsoleCurrencyConverter.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Prog. For QA (September 2023)\1.1 First Steps in Programming - Exercise\1. ConsoleCurrencyConverter\obj\Debug\net6.0\ref\1. ConsoleCurrencyConverter.dll
