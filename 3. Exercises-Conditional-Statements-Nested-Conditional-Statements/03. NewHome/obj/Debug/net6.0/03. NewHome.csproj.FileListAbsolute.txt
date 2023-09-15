@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\bin\Debug\net6.0\03. NewHome.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\bin\Debug\net6.0\03. NewHome.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\bin\Debug\net6.0\03. NewHome.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\bin\Debug\net6.0\03. NewHome.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\bin\Debug\net6.0\03. NewHome.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\refint\03. NewHome.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\03. NewHome.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\03. NewHome\obj\Debug\net6.0\ref\03. NewHome.dll

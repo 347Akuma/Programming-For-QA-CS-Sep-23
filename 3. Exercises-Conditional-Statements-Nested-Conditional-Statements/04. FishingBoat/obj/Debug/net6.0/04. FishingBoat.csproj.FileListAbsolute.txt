@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\bin\Debug\net6.0\04. FishingBoat.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\bin\Debug\net6.0\04. FishingBoat.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\bin\Debug\net6.0\04. FishingBoat.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\bin\Debug\net6.0\04. FishingBoat.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\bin\Debug\net6.0\04. FishingBoat.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\refint\04. FishingBoat.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\04. FishingBoat.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\04. FishingBoat\obj\Debug\net6.0\ref\04. FishingBoat.dll

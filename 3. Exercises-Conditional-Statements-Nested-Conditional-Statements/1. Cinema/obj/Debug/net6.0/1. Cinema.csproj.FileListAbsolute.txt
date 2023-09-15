@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\bin\Debug\net6.0\1. Cinema.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\bin\Debug\net6.0\1. Cinema.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\bin\Debug\net6.0\1. Cinema.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\bin\Debug\net6.0\1. Cinema.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\bin\Debug\net6.0\1. Cinema.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\refint\1. Cinema.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\1. Cinema.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\1. Cinema\obj\Debug\net6.0\ref\1. Cinema.dll

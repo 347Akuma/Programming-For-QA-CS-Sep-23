@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\bin\Debug\net6.0\05. Journey.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\bin\Debug\net6.0\05. Journey.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\bin\Debug\net6.0\05. Journey.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\bin\Debug\net6.0\05. Journey.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\bin\Debug\net6.0\05. Journey.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\refint\05. Journey.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\05. Journey.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\05. Journey\obj\Debug\net6.0\ref\05. Journey.dll

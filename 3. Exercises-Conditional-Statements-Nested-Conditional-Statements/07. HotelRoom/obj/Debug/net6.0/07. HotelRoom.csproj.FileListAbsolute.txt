@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\bin\Debug\net6.0\07. HotelRoom.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\bin\Debug\net6.0\07. HotelRoom.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\bin\Debug\net6.0\07. HotelRoom.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\bin\Debug\net6.0\07. HotelRoom.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\bin\Debug\net6.0\07. HotelRoom.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\refint\07. HotelRoom.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\07. HotelRoom.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\07. HotelRoom\obj\Debug\net6.0\ref\07. HotelRoom.dll
