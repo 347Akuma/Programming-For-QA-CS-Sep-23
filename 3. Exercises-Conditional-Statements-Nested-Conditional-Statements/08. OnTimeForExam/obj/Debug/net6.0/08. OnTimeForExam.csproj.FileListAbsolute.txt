@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\bin\Debug\net6.0\08. OnTimeForExam.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\bin\Debug\net6.0\08. OnTimeForExam.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\bin\Debug\net6.0\08. OnTimeForExam.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\bin\Debug\net6.0\08. OnTimeForExam.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\bin\Debug\net6.0\08. OnTimeForExam.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\refint\08. OnTimeForExam.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\08. OnTimeForExam.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\3. Exercises-Conditional-Statements-Nested-Conditional-Statements\08. OnTimeForExam\obj\Debug\net6.0\ref\08. OnTimeForExam.dll
