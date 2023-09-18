@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\bin\Debug\net6.0\0. Demo-Fiddle.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\bin\Debug\net6.0\0. Demo-Fiddle.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\bin\Debug\net6.0\0. Demo-Fiddle.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\bin\Debug\net6.0\0. Demo-Fiddle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\bin\Debug\net6.0\0. Demo-Fiddle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\refint\0. Demo-Fiddle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\0. Demo-Fiddle.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\0. Demo-Fiddle\obj\Debug\net6.0\ref\0. Demo-Fiddle.dll

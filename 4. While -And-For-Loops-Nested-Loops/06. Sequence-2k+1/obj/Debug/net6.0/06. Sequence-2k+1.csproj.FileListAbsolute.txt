@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\bin\Debug\net6.0\06. Sequence-2k+1.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\bin\Debug\net6.0\06. Sequence-2k+1.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\bin\Debug\net6.0\06. Sequence-2k+1.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\bin\Debug\net6.0\06. Sequence-2k+1.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\bin\Debug\net6.0\06. Sequence-2k+1.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\refint\06. Sequence-2k+1.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\06. Sequence-2k+1.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\06. Sequence-2k+1\obj\Debug\net6.0\ref\06. Sequence-2k+1.dll

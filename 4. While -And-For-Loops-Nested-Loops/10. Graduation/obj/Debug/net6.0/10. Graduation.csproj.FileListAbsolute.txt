@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\refint\10. Graduation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\10. Graduation\obj\Debug\net6.0\ref\10. Graduation.dll

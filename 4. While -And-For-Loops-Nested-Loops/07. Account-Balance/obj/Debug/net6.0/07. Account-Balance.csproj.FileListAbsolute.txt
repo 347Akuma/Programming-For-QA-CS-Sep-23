@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\bin\Debug\net6.0\07. Account-Balance.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\bin\Debug\net6.0\07. Account-Balance.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\bin\Debug\net6.0\07. Account-Balance.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\bin\Debug\net6.0\07. Account-Balance.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\bin\Debug\net6.0\07. Account-Balance.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\refint\07. Account-Balance.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\07. Account-Balance.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\07. Account-Balance\obj\Debug\net6.0\ref\07. Account-Balance.dll

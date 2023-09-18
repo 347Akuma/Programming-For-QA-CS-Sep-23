@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\bin\Debug\net6.0\09. The-Smallest-Number.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\bin\Debug\net6.0\09. The-Smallest-Number.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\bin\Debug\net6.0\09. The-Smallest-Number.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\bin\Debug\net6.0\09. The-Smallest-Number.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\bin\Debug\net6.0\09. The-Smallest-Number.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\refint\09. The-Smallest-Number.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\09. The-Smallest-Number.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\4. While -And-For-Loops-Nested-Loops\09. The-Smallest-Number\obj\Debug\net6.0\ref\09. The-Smallest-Number.dll
