@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\bin\Debug\net6.0\09. Moving-Out.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\bin\Debug\net6.0\09. Moving-Out.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\bin\Debug\net6.0\09. Moving-Out.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\bin\Debug\net6.0\09. Moving-Out.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\bin\Debug\net6.0\09. Moving-Out.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\refint\09. Moving-Out.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\09. Moving-Out.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\09. Moving-Out\obj\Debug\net6.0\ref\09. Moving-Out.dll

@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\bin\Debug\net6.0\04. Exam-Preparation.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\bin\Debug\net6.0\04. Exam-Preparation.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\bin\Debug\net6.0\04. Exam-Preparation.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\bin\Debug\net6.0\04. Exam-Preparation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\bin\Debug\net6.0\04. Exam-Preparation.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\refint\04. Exam-Preparation.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\04. Exam-Preparation.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\04. Exam-Preparation\obj\Debug\net6.0\ref\04. Exam-Preparation.dll

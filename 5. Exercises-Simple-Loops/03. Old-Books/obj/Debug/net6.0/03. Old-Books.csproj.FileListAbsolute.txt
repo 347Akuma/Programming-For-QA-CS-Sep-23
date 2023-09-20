@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\bin\Debug\net6.0\03. Old-Books.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\bin\Debug\net6.0\03. Old-Books.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\bin\Debug\net6.0\03. Old-Books.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\bin\Debug\net6.0\03. Old-Books.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\bin\Debug\net6.0\03. Old-Books.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\refint\03. Old-Books.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\03. Old-Books.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\03. Old-Books\obj\Debug\net6.0\ref\03. Old-Books.dll

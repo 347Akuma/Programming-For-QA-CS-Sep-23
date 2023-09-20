@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\bin\Debug\net6.0\06. Walking.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\bin\Debug\net6.0\06. Walking.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\bin\Debug\net6.0\06. Walking.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\bin\Debug\net6.0\06. Walking.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\bin\Debug\net6.0\06. Walking.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\refint\06. Walking.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\06. Walking.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\06. Walking\obj\Debug\net6.0\ref\06. Walking.dll

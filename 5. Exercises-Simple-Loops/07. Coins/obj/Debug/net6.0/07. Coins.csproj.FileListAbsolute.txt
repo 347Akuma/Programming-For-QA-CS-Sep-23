@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\bin\Debug\net6.0\07. Coins.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\bin\Debug\net6.0\07. Coins.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\bin\Debug\net6.0\07. Coins.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\bin\Debug\net6.0\07. Coins.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\bin\Debug\net6.0\07. Coins.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\refint\07. Coins.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\07. Coins.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\5. Exercises-Simple-Loops\Exercises-Simple-Loops\07. Coins\obj\Debug\net6.0\ref\07. Coins.dll
