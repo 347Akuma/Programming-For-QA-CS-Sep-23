@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\bin\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\bin\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\bin\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\bin\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\bin\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\refint\03. Sum-Of-Prime-And-Non-Prime.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\03. Sum-Of-Prime-And-Non-Prime.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\03. Sum-Of-Prime-And-Non-Prime\obj\Debug\net6.0\ref\03. Sum-Of-Prime-And-Non-Prime.dll

@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\bin\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\bin\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\bin\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\bin\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\bin\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\refint\02. Equal-Sum-Of-Even-And-Odd.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\02. Equal-Sum-Of-Even-And-Odd.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\6. Exercises-Nested-Loops\02. Equal-Sum-Of-Even-And-Odd\obj\Debug\net6.0\ref\02. Equal-Sum-Of-Even-And-Odd.dll
