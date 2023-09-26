@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\bin\Debug\net6.0\02. Vowels-Count-Method.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\bin\Debug\net6.0\02. Vowels-Count-Method.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\bin\Debug\net6.0\02. Vowels-Count-Method.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\bin\Debug\net6.0\02. Vowels-Count-Method.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\bin\Debug\net6.0\02. Vowels-Count-Method.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\refint\02. Vowels-Count-Method.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\02. Vowels-Count-Method.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\02. Vowels-Count-Method\obj\Debug\net6.0\ref\02. Vowels-Count-Method.dll
