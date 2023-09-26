@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\bin\Debug\net6.0\10. Valid-Triangle.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\bin\Debug\net6.0\10. Valid-Triangle.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\bin\Debug\net6.0\10. Valid-Triangle.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\bin\Debug\net6.0\10. Valid-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\bin\Debug\net6.0\10. Valid-Triangle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\refint\10. Valid-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\10. Valid-Triangle.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\07. Simple Conditional Statements\10. Valid-Triangle\obj\Debug\net6.0\ref\10. Valid-Triangle.dll
