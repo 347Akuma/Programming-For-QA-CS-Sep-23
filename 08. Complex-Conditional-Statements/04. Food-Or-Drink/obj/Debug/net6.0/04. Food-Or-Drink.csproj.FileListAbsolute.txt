@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\bin\Debug\net6.0\04. Food-Or-Drink.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\bin\Debug\net6.0\04. Food-Or-Drink.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\bin\Debug\net6.0\04. Food-Or-Drink.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\bin\Debug\net6.0\04. Food-Or-Drink.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\bin\Debug\net6.0\04. Food-Or-Drink.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\refint\04. Food-Or-Drink.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\04. Food-Or-Drink.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\08. Complex-Conditional-Statements\04. Food-Or-Drink\obj\Debug\net6.0\ref\04. Food-Or-Drink.dll
