@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\bin\Debug\net6.0\07. Working-Hours.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\bin\Debug\net6.0\07. Working-Hours.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\bin\Debug\net6.0\07. Working-Hours.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\bin\Debug\net6.0\07. Working-Hours.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\bin\Debug\net6.0\07. Working-Hours.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.csproj.AssemblyReference.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\refint\07. Working-Hours.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\07. Working-Hours.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\09. Simple and Complex Conditional Statements - Exercise\07. Working-Hours\obj\Debug\net6.0\ref\07. Working-Hours.dll
