@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\bin\Debug\net6.0\06. Number-Processor.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\bin\Debug\net6.0\06. Number-Processor.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\bin\Debug\net6.0\06. Number-Processor.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\bin\Debug\net6.0\06. Number-Processor.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\bin\Debug\net6.0\06. Number-Processor.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\refint\06. Number-Processor.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\06. Number-Processor.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\06. Number-Processor\obj\Debug\net6.0\ref\06. Number-Processor.dll

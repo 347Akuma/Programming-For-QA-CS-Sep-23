@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\bin\Debug\net6.0\05. Number-In-Range.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\bin\Debug\net6.0\05. Number-In-Range.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\bin\Debug\net6.0\05. Number-In-Range.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\bin\Debug\net6.0\05. Number-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\bin\Debug\net6.0\05. Number-In-Range.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\refint\05. Number-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\05. Number-In-Range.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\05. Number-In-Range\obj\Debug\net6.0\ref\05. Number-In-Range.dll

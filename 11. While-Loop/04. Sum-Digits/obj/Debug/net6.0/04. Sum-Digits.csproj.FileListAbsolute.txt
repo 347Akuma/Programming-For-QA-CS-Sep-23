@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\bin\Debug\net6.0\04. Sum-Digits.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\bin\Debug\net6.0\04. Sum-Digits.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\bin\Debug\net6.0\04. Sum-Digits.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\bin\Debug\net6.0\04. Sum-Digits.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\bin\Debug\net6.0\04. Sum-Digits.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\refint\04. Sum-Digits.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\04. Sum-Digits.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\04. Sum-Digits\obj\Debug\net6.0\ref\04. Sum-Digits.dll

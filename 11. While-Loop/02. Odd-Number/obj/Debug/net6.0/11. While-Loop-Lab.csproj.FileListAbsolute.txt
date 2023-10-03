@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\bin\Debug\net6.0\11. While-Loop-Lab.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\bin\Debug\net6.0\11. While-Loop-Lab.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\bin\Debug\net6.0\11. While-Loop-Lab.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\bin\Debug\net6.0\11. While-Loop-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\bin\Debug\net6.0\11. While-Loop-Lab.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\refint\11. While-Loop-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\11. While-Loop-Lab.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\11. While-Loop\11. While-Loop-Lab\obj\Debug\net6.0\ref\11. While-Loop-Lab.dll
