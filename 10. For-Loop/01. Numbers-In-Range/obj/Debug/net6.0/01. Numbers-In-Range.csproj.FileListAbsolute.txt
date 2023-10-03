@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\bin\Debug\net6.0\01. Numbers-In-Range.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\bin\Debug\net6.0\01. Numbers-In-Range.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\bin\Debug\net6.0\01. Numbers-In-Range.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\bin\Debug\net6.0\01. Numbers-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\bin\Debug\net6.0\01. Numbers-In-Range.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\refint\01. Numbers-In-Range.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\01. Numbers-In-Range.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\10. For-Loop-Lab\obj\Debug\net6.0\ref\01. Numbers-In-Range.dll

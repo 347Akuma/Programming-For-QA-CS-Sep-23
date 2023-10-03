@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\bin\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\bin\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\bin\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\bin\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\bin\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\refint\05 Numbers-From-1-To-N-Step-3.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\05 Numbers-From-1-To-N-Step-3.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\05 Numbers-From-1-To-N-Step-3\obj\Debug\net6.0\ref\05 Numbers-From-1-To-N-Step-3.dll

@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\bin\Debug\net6.0\06. Exam-Countdown.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\bin\Debug\net6.0\06. Exam-Countdown.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\bin\Debug\net6.0\06. Exam-Countdown.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\bin\Debug\net6.0\06. Exam-Countdown.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\bin\Debug\net6.0\06. Exam-Countdown.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\refint\06. Exam-Countdown.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\06. Exam-Countdown.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\10. For-Loop\06. Exam-Countdown\obj\Debug\net6.0\ref\06. Exam-Countdown.dll
