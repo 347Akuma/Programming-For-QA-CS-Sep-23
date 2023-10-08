@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\bin\Debug\net6.0\03. Triangle-Of-Stars.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\bin\Debug\net6.0\03. Triangle-Of-Stars.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\bin\Debug\net6.0\03. Triangle-Of-Stars.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\bin\Debug\net6.0\03. Triangle-Of-Stars.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\bin\Debug\net6.0\03. Triangle-Of-Stars.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\refint\03. Triangle-Of-Stars.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\03. Triangle-Of-Stars.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\03. Triangle-Of-Stars\obj\Debug\net6.0\ref\03. Triangle-Of-Stars.dll
