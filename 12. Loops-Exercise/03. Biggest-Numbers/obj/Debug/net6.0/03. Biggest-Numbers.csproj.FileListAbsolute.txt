@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\bin\Debug\net6.0\03. Biggest-Numbers.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\bin\Debug\net6.0\03. Biggest-Numbers.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\bin\Debug\net6.0\03. Biggest-Numbers.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\bin\Debug\net6.0\03. Biggest-Numbers.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\bin\Debug\net6.0\03. Biggest-Numbers.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\refint\03. Biggest-Numbers.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\03. Biggest-Numbers.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\03. Biggest-Numbers\obj\Debug\net6.0\ref\03. Biggest-Numbers.dll

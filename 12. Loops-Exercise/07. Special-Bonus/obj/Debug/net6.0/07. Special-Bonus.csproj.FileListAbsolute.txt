@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\bin\Debug\net6.0\07. Special-Bonus.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\bin\Debug\net6.0\07. Special-Bonus.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\bin\Debug\net6.0\07. Special-Bonus.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\bin\Debug\net6.0\07. Special-Bonus.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\bin\Debug\net6.0\07. Special-Bonus.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\refint\07. Special-Bonus.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\07. Special-Bonus.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\07. Special-Bonus\obj\Debug\net6.0\ref\07. Special-Bonus.dll

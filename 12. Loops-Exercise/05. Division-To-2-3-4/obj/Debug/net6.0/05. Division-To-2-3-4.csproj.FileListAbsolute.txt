@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\bin\Debug\net6.0\05. Division-To-2-3-4.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\bin\Debug\net6.0\05. Division-To-2-3-4.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\bin\Debug\net6.0\05. Division-To-2-3-4.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\bin\Debug\net6.0\05. Division-To-2-3-4.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\bin\Debug\net6.0\05. Division-To-2-3-4.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\refint\05. Division-To-2-3-4.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\05. Division-To-2-3-4.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\05. Division-To-2-3-4\obj\Debug\net6.0\ref\05. Division-To-2-3-4.dll

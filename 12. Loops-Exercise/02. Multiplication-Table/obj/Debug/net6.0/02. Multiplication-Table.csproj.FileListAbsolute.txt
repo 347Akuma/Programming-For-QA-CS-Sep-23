@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\bin\Debug\net6.0\02. Multiplication-Table.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\bin\Debug\net6.0\02. Multiplication-Table.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\bin\Debug\net6.0\02. Multiplication-Table.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\bin\Debug\net6.0\02. Multiplication-Table.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\bin\Debug\net6.0\02. Multiplication-Table.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\refint\02. Multiplication-Table.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\02. Multiplication-Table.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\02. Multiplication-Table\obj\Debug\net6.0\ref\02. Multiplication-Table.dll

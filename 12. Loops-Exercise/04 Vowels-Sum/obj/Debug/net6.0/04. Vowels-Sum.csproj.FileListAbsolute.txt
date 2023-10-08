@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\bin\Debug\net6.0\04. Vowels-Sum.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\bin\Debug\net6.0\04. Vowels-Sum.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\bin\Debug\net6.0\04. Vowels-Sum.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\bin\Debug\net6.0\04. Vowels-Sum.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\bin\Debug\net6.0\04. Vowels-Sum.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\refint\04. Vowels-Sum.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\04. Vowels-Sum.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\12. Loops-Exercise\04 Vowels-Sum\obj\Debug\net6.0\ref\04. Vowels-Sum.dll
