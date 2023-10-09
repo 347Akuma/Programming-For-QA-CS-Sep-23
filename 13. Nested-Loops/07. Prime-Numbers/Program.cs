@@ -9,32 +9,30 @@ namespace _07._Prime_Numbers
             int start = int.Parse(Console.ReadLine());
             int end = int.Parse(Console.ReadLine());
 
-            int primeCount = 0;
-
             for (int currNum = start; currNum <= end; currNum++)
             {
-                int divisors = 0;
+                bool isPrime = true;
+                int divisors = 2;
 
-                for (int j = 1; j <= currNum; j++)
+                while (divisors < end)
                 {
-                    if (currNum % j == 0)
+                    if (currNum == divisors)
                     {
                         divisors++;
-                    }
-                    else
-                    {
                         continue;
                     }
+
+                    if (currNum % divisors == 0)
+                    {
+                        isPrime = false;
+                        break;
+                    }
+                    divisors++;
                 }
-                if (divisors == 2)
+                if (isPrime)
                 {
-                    Console.Write(currNum + " ");
-                    primeCount++;
-                }               
-            }
-            if (primeCount == 0)
-            {
-                Console.WriteLine("No prime numbers found.");
+                    Console.Write($"{currNum} ");
+                }
             }
         }
     }

@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\bin\Debug\net6.0\07. Sum-Of-Digits-Calculator.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\bin\Debug\net6.0\07. Sum-Of-Digits-Calculator.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\bin\Debug\net6.0\07. Sum-Of-Digits-Calculator.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\bin\Debug\net6.0\07. Sum-Of-Digits-Calculator.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\bin\Debug\net6.0\07. Sum-Of-Digits-Calculator.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\refint\07. Sum-Of-Digits-Calculator.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\07. Sum-Of-Digits-Calculator.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\13. Nested-Loops\07. Sum-Of-Digits-Calculator\obj\Debug\net6.0\ref\07. Sum-Of-Digits-Calculator.dll

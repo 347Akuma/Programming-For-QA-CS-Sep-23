@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers-From-N-1", "1. Numbers-From-N-1.csproj", "{713444F4-B564-47A0-BB8B-BF738D59EE80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Numbers-From-N-1", "1. Numbers-From-N-1.csproj", "{713444F4-B564-47A0-BB8B-BF738D59EE80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Triangle-Of-Stars", "..\03. Triangle-Of-Stars\03. Triangle-Of-Stars.csproj", "{559DD8FB-3997-4CCD-B6E2-1660DFE87036}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Triangle-Of-Stars", "..\03. Triangle-Of-Stars\03. Triangle-Of-Stars.csproj", "{559DD8FB-3997-4CCD-B6E2-1660DFE87036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Travel-Savings", "..\06. Travel-Savings\06. Travel-Savings.csproj", "{65DBBA64-9E22-4F52-BB0D-BEBEFDE80165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Travel-Savings", "..\06. Travel-Savings\06. Travel-Savings.csproj", "{65DBBA64-9E22-4F52-BB0D-BEBEFDE80165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Prime-Numbers", "..\07. Prime-Numbers\07. Prime-Numbers.csproj", "{D5D52A96-3D7F-4070-87D4-93A4536CAD11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Prime-Numbers", "..\07. Prime-Numbers\08. Prime-Numbers.csproj", "{D5D52A96-3D7F-4070-87D4-93A4536CAD11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Even-Powers-Of-Two", "..\02 Even-Powers-Of-Two\02 Even-Powers-Of-Two.csproj", "{4D0ADDE4-10A1-446F-921E-01F267803AA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 Even-Powers-Of-Two", "..\02 Even-Powers-Of-Two\02 Even-Powers-Of-Two.csproj", "{4D0ADDE4-10A1-446F-921E-01F267803AA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Building", "..\04. Building\04. Building.csproj", "{36944266-5870-4DE5-8667-162E96FAAB67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Building", "..\04. Building\04. Building.csproj", "{36944266-5870-4DE5-8667-162E96FAAB67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number-Pyramid", "..\05. Number-Pyramid\05. Number-Pyramid.csproj", "{8D90BE7D-69B2-4605-B71D-C96C918B05F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Number-Pyramid", "..\05. Number-Pyramid\05. Number-Pyramid.csproj", "{8D90BE7D-69B2-4605-B71D-C96C918B05F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum-Of-Digits-Calculator", "..\07. Sum-Of-Digits-Calculator\07. Sum-Of-Digits-Calculator.csproj", "{61A24A6F-AD4D-4483-AF2C-9671D4529EBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8D90BE7D-69B2-4605-B71D-C96C918B05F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D90BE7D-69B2-4605-B71D-C96C918B05F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D90BE7D-69B2-4605-B71D-C96C918B05F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A24A6F-AD4D-4483-AF2C-9671D4529EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A24A6F-AD4D-4483-AF2C-9671D4529EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A24A6F-AD4D-4483-AF2C-9671D4529EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A24A6F-AD4D-4483-AF2C-9671D4529EBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

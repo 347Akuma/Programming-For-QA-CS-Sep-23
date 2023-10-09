@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\07. Prime-Numbers\\08. Prime-Numbers.csproj",
-      "projectName": "08. Prime-Numbers",
-      "projectPath": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\07. Prime-Numbers\\08. Prime-Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\02 Even-Powers-Of-Two\\02 Even-Powers-Of-Two.csproj",
+      "projectName": "02 Even-Powers-Of-Two",
+      "projectPath": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\02 Even-Powers-Of-Two\\02 Even-Powers-Of-Two.csproj",
       "packagesPath": "C:\\Users\\guita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\07. Prime-Numbers\\obj\\",
+      "outputPath": "C:\\Users\\guita\\OneDrive\\Desktop\\Programming For QA - C# (September 2023)\\13. Nested-Loops\\02 Even-Powers-Of-Two\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guita\\AppData\\Roaming\\NuGet\\NuGet.Config",
