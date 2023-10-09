@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\bin\Debug\net6.0\03. Printing-Triangle.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\bin\Debug\net6.0\03. Printing-Triangle.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\bin\Debug\net6.0\03. Printing-Triangle.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\bin\Debug\net6.0\03. Printing-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\bin\Debug\net6.0\03. Printing-Triangle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\refint\03. Printing-Triangle.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\03. Printing-Triangle.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\03. Printing-Triangle\obj\Debug\net6.0\ref\03. Printing-Triangle.dll

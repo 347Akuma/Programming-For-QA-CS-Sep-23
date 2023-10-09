@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\bin\Debug\net6.0\06. Math-Power.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\bin\Debug\net6.0\06. Math-Power.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\bin\Debug\net6.0\06. Math-Power.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\bin\Debug\net6.0\06. Math-Power.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\bin\Debug\net6.0\06. Math-Power.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\refint\06. Math-Power.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\06. Math-Power.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14. Methods\06. Math-Power\obj\Debug\net6.0\ref\06. Math-Power.dll
