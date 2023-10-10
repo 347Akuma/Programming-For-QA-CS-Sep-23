@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\bin\Debug\net6.0\02. Grades.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\bin\Debug\net6.0\02. Grades.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\bin\Debug\net6.0\02. Grades.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\bin\Debug\net6.0\02. Grades.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\bin\Debug\net6.0\02. Grades.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\refint\02. Grades.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\02. Grades.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\02\obj\Debug\net6.0\ref\02. Grades.dll

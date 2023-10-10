@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\bin\Debug\net6.0\04. Calculate-Rectangle-Area.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\bin\Debug\net6.0\04. Calculate-Rectangle-Area.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\bin\Debug\net6.0\04. Calculate-Rectangle-Area.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\bin\Debug\net6.0\04. Calculate-Rectangle-Area.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\bin\Debug\net6.0\04. Calculate-Rectangle-Area.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\refint\04. Calculate-Rectangle-Area.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\04. Calculate-Rectangle-Area.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\04\obj\Debug\net6.0\ref\04. Calculate-Rectangle-Area.dll

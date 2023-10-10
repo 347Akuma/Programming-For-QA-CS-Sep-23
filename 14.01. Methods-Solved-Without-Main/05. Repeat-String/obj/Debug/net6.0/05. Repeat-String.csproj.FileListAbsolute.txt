@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\bin\Debug\net6.0\05. Repeat-String.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\bin\Debug\net6.0\05. Repeat-String.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\bin\Debug\net6.0\05. Repeat-String.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\bin\Debug\net6.0\05. Repeat-String.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\bin\Debug\net6.0\05. Repeat-String.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\refint\05. Repeat-String.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\05. Repeat-String.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\05. Repeat-String\obj\Debug\net6.0\ref\05. Repeat-String.dll

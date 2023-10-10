@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\bin\Debug\net6.0\01..exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\bin\Debug\net6.0\01..deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\bin\Debug\net6.0\01..runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\bin\Debug\net6.0\01..dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\bin\Debug\net6.0\01..pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\refint\01..dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\01..genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\14.01. Methods-Solved-Without-Main\01\obj\Debug\net6.0\ref\01..dll
