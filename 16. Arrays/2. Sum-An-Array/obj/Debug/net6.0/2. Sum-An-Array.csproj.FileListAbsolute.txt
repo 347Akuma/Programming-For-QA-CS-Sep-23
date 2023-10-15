@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\bin\Debug\net6.0\2. Sum-An-Array.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\bin\Debug\net6.0\2. Sum-An-Array.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\bin\Debug\net6.0\2. Sum-An-Array.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\bin\Debug\net6.0\2. Sum-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\bin\Debug\net6.0\2. Sum-An-Array.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\refint\2. Sum-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\2. Sum-An-Array.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\16. Arrays\2. Sum-An-Array\obj\Debug\net6.0\ref\2. Sum-An-Array.dll
