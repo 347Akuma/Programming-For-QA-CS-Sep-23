@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\bin\Debug\net6.0\03. Unique-PIN-Codes.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\bin\Debug\net6.0\03. Unique-PIN-Codes.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\bin\Debug\net6.0\03. Unique-PIN-Codes.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\bin\Debug\net6.0\03. Unique-PIN-Codes.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\bin\Debug\net6.0\03. Unique-PIN-Codes.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\refint\03. Unique-PIN-Codes.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\03. Unique-PIN-Codes.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\15. Nested-Loops-Methods-Exercise\03. Unique-PIN-Codes\obj\Debug\net6.0\ref\03. Unique-PIN-Codes.dll
