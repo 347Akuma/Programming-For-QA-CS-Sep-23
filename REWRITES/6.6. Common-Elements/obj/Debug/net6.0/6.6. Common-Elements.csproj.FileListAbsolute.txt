@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\bin\Debug\net6.0\6.6. Common-Elements.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\bin\Debug\net6.0\6.6. Common-Elements.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\bin\Debug\net6.0\6.6. Common-Elements.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\bin\Debug\net6.0\6.6. Common-Elements.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\bin\Debug\net6.0\6.6. Common-Elements.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\refint\6.6. Common-Elements.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\6.6. Common-Elements.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\6.6. Common-Elements\obj\Debug\net6.0\ref\6.6. Common-Elements.dll

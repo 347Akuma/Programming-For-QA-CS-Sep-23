@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\bin\Debug\net6.0\1.1. Day-Of-Week.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\bin\Debug\net6.0\1.1. Day-Of-Week.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\bin\Debug\net6.0\1.1. Day-Of-Week.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\bin\Debug\net6.0\1.1. Day-Of-Week.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\bin\Debug\net6.0\1.1. Day-Of-Week.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\refint\1.1. Day-Of-Week.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\1.1. Day-Of-Week.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\1.1. Day-Of-Week\obj\Debug\net6.0\ref\1.1. Day-Of-Week.dll

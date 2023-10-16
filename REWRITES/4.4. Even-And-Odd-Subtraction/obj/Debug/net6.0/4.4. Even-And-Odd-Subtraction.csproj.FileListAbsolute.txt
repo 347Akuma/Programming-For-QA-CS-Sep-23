@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\bin\Debug\net6.0\4.4. Even-And-Odd-Subtraction.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\bin\Debug\net6.0\4.4. Even-And-Odd-Subtraction.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\bin\Debug\net6.0\4.4. Even-And-Odd-Subtraction.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\bin\Debug\net6.0\4.4. Even-And-Odd-Subtraction.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\bin\Debug\net6.0\4.4. Even-And-Odd-Subtraction.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\refint\4.4. Even-And-Odd-Subtraction.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\4.4. Even-And-Odd-Subtraction.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\4.4. Even-And-Odd-Subtraction\obj\Debug\net6.0\ref\4.4. Even-And-Odd-Subtraction.dll

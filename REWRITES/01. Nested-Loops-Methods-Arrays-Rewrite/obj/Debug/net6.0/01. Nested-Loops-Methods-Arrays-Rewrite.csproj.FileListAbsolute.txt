@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\bin\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\bin\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\bin\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\bin\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\bin\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\refint\01. Nested-Loops-Methods-Arrays-Rewrite.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\01. Nested-Loops-Methods-Arrays-Rewrite.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\01. Nested-Loops-Methods-Arrays-Rewrite\obj\Debug\net6.0\ref\01. Nested-Loops-Methods-Arrays-Rewrite.dll

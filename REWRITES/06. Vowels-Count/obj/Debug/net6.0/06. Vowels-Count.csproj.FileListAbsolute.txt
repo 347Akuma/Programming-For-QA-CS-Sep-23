@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\bin\Debug\net6.0\06. Vowels-Count.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\bin\Debug\net6.0\06. Vowels-Count.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\bin\Debug\net6.0\06. Vowels-Count.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\bin\Debug\net6.0\06. Vowels-Count.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\bin\Debug\net6.0\06. Vowels-Count.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\refint\06. Vowels-Count.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\06. Vowels-Count.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\06. Vowels-Count\obj\Debug\net6.0\ref\06. Vowels-Count.dll

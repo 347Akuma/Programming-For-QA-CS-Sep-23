@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\bin\Debug\net6.0\3.3. Reverse-An-Array.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\bin\Debug\net6.0\3.3. Reverse-An-Array.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\bin\Debug\net6.0\3.3. Reverse-An-Array.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\bin\Debug\net6.0\3.3. Reverse-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\bin\Debug\net6.0\3.3. Reverse-An-Array.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\refint\3.3. Reverse-An-Array.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\3.3. Reverse-An-Array.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\3.3. Reverse-An-Array\obj\Debug\net6.0\ref\3.3. Reverse-An-Array.dll

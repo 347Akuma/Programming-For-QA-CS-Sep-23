@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\bin\Debug\net6.0\03. Unique-Pin-Codes.exe
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\bin\Debug\net6.0\03. Unique-Pin-Codes.deps.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\bin\Debug\net6.0\03. Unique-Pin-Codes.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\bin\Debug\net6.0\03. Unique-Pin-Codes.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\bin\Debug\net6.0\03. Unique-Pin-Codes.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\refint\03. Unique-Pin-Codes.dll
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.pdb
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\03. Unique-Pin-Codes.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\REWRITES\03. Unique-Pin-Codes\obj\Debug\net6.0\ref\03. Unique-Pin-Codes.dll
