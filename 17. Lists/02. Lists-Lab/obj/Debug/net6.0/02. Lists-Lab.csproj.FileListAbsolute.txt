@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\bin\Debug\net6.0\02. Lists-Lab.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\bin\Debug\net6.0\02. Lists-Lab.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\bin\Debug\net6.0\02. Lists-Lab.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\bin\Debug\net6.0\02. Lists-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\bin\Debug\net6.0\02. Lists-Lab.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\refint\02. Lists-Lab.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\02. Lists-Lab.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\02. Lists-Lab\obj\Debug\net6.0\ref\02. Lists-Lab.dll

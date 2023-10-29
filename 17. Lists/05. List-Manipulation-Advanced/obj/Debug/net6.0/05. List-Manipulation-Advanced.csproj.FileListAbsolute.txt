@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\bin\Debug\net6.0\05. List-Manipulation-Advanced.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\bin\Debug\net6.0\05. List-Manipulation-Advanced.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\bin\Debug\net6.0\05. List-Manipulation-Advanced.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\bin\Debug\net6.0\05. List-Manipulation-Advanced.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\bin\Debug\net6.0\05. List-Manipulation-Advanced.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\refint\05. List-Manipulation-Advanced.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\05. List-Manipulation-Advanced.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\05. List-Manipulation-Advanced\obj\Debug\net6.0\ref\05. List-Manipulation-Advanced.dll

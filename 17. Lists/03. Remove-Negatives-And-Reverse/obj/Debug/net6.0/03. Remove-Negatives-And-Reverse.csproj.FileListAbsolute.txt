@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\bin\Debug\net6.0\03. Remove-Negatives-And-Reverse.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\bin\Debug\net6.0\03. Remove-Negatives-And-Reverse.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\bin\Debug\net6.0\03. Remove-Negatives-And-Reverse.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\bin\Debug\net6.0\03. Remove-Negatives-And-Reverse.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\bin\Debug\net6.0\03. Remove-Negatives-And-Reverse.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\refint\03. Remove-Negatives-And-Reverse.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\03. Remove-Negatives-And-Reverse.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\03. Remove-Negatives-And-Reverse\obj\Debug\net6.0\ref\03. Remove-Negatives-And-Reverse.dll

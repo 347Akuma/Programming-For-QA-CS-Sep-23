@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\bin\Debug\net6.0\01. Change-Lists.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\bin\Debug\net6.0\01. Change-Lists.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\bin\Debug\net6.0\01. Change-Lists.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\bin\Debug\net6.0\01. Change-Lists.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\bin\Debug\net6.0\01. Change-Lists.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\refint\01. Change-Lists.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\01. Change-Lists.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\17. Lists\17. Lists-Lab\obj\Debug\net6.0\ref\01. Change-Lists.dll
