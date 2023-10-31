@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\bin\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\bin\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\bin\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\bin\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\bin\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\refint\01.1. Sum-Factorial-Even-Digits-List.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\01.1. Sum-Factorial-Even-Digits-List.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\22. Exam-Preparation\01.1. Sum-Factorial-Even-Digits-List\obj\Debug\net6.0\ref\01.1. Sum-Factorial-Even-Digits-List.dll
