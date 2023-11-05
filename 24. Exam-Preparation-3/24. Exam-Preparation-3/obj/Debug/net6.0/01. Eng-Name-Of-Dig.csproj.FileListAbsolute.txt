@@ -1,0 +1,14 @@
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\bin\Debug\net6.0\01. Eng-Name-Of-Dig.exe
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\bin\Debug\net6.0\01. Eng-Name-Of-Dig.deps.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\bin\Debug\net6.0\01. Eng-Name-Of-Dig.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\bin\Debug\net6.0\01. Eng-Name-Of-Dig.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\bin\Debug\net6.0\01. Eng-Name-Of-Dig.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\refint\01. Eng-Name-Of-Dig.dll
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.pdb
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\01. Eng-Name-Of-Dig.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\Programming For QA - C# (September 2023)\23. Exam-Preparation-2\24. Exam-Preparation-3\obj\Debug\net6.0\ref\01. Eng-Name-Of-Dig.dll
