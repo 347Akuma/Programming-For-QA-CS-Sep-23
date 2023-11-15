@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Gauss-Trick", "01. Gauss-Trick.csproj", "{F7ADAAEF-9F17-4E1E-98FD-294A360248A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Condense-Array-To-Number", "..\02. Condense-Array-To-Number\02. Condense-Array-To-Number.csproj", "{43686C79-1D53-45A1-BB35-2915B2162A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ADAAEF-9F17-4E1E-98FD-294A360248A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ADAAEF-9F17-4E1E-98FD-294A360248A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ADAAEF-9F17-4E1E-98FD-294A360248A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ADAAEF-9F17-4E1E-98FD-294A360248A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43686C79-1D53-45A1-BB35-2915B2162A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43686C79-1D53-45A1-BB35-2915B2162A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43686C79-1D53-45A1-BB35-2915B2162A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43686C79-1D53-45A1-BB35-2915B2162A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4C1FE9-8952-4230-9E24-63CAA599D7F7}
+	EndGlobalSection
+EndGlobal

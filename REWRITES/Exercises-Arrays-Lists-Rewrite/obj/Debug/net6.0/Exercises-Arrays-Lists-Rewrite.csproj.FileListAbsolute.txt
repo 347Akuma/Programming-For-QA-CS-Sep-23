@@ -1,0 +1,14 @@
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\bin\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.exe
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\bin\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.deps.json
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\bin\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.runtimeconfig.json
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\bin\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.dll
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\bin\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.pdb
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.AssemblyInfoInputs.cache
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.AssemblyInfo.cs
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.dll
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\refint\Exercises-Arrays-Lists-Rewrite.dll
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.pdb
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\Exercises-Arrays-Lists-Rewrite.genruntimeconfig.cache
+C:\The-Code-Folder\0. REWRITES\Exercises-Arrays-Lists-Rewrite\obj\Debug\net6.0\ref\Exercises-Arrays-Lists-Rewrite.dll
